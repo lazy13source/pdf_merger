@@ -1,2 +1,2 @@
 # pdf_merger
-make many pdfs unto one
+make many pdfs into one
